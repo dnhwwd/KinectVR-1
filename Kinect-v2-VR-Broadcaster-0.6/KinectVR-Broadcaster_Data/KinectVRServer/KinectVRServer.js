@@ -1,6 +1,6 @@
 // --------------------------------------------------- STATIC VARIABLES
 // local IP address
-var HOST = '192.168.43.209';
+var HOST = '192.168.43.209';//Change this to the local IP of your computer
 HOST = getIPAddress();
 // internet IP address
 var PUBHOST = '104.131.11.131';
